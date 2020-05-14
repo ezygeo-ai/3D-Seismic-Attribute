@@ -24,3 +24,5 @@ And then apply the algorithm to seismic data [volume](https://github.com/ezygeo-
 
 <p align="center">
 <img src="https://github.com/ezygeo-ai/3D-Seismic-Attribute/blob/master/Kerry3DRMS.gif" width="80%"></p>
+
+
