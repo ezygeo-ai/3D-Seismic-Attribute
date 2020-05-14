@@ -15,7 +15,10 @@ Reference: Seismic attributes [SEG Wiki](https://wiki.seg.org/wiki/Seismic_attri
 Seismic SEGY data from [Kerry 3D](https://wiki.seg.org/wiki/Kerry-3D) 
 We use [Segyio](https://github.com/equinor/segyio) to import .segy data and [Mayavi](https://docs.enthought.com/mayavi/mayavi/index.html) to create 3D Visualization 
 
-First we apply the RMS amplitude algorithm to 2D section
+First we apply the RMS amplitude algorithm to 2D [section](https://github.com/ezygeo-ai/3D-Seismic-Attribute/blob/master/KerryRMS.png)
+
+<p align="center">
+<img src="https://github.com/ezygeo-ai/3D-Seismic-Attribute/blob/master/KerryRMS.png" width="80%"></p>
 
 And then apply the algorithm to seismic data [volume](https://github.com/ezygeo-ai/3D-Seismic-Attribute/blob/master/Kerry3DRMS.gif)
 
