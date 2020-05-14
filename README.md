@@ -17,4 +17,7 @@ We use [Segyio](https://github.com/equinor/segyio) to import .segy data and [May
 
 First we apply the RMS amplitude algorithm to 2D section
 
-And then apply the algorithm to seismic data volume
+And then apply the algorithm to seismic data [volume](https://github.com/ezygeo-ai/3D-Seismic-Attribute/blob/master/Kerry3DRMS.gif)
+
+<p align="center">
+<img src="https://github.com/ezygeo-ai/3D-Seismic-Attribute/blob/master/Kerry3DRMS.gif" width="80%"></p>
